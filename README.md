@@ -9,5 +9,5 @@
 <div align="center">
   <img src="https://itsfoss.com/wp-content/uploads/2018/07/top-free-games.jpg" width="600" height="300"/>
 </div>
-
-<a href="#" class="button pill">This is a pill button</a>
+    
+<a href="#" class="button pill">Snake</a>
