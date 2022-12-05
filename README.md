@@ -10,4 +10,4 @@
   <img src="https://itsfoss.com/wp-content/uploads/2018/07/top-free-games.jpg" width="600" height="300"/>
 </div>
     
-<a href="#" class="button pill">Snake</a>
+<a href="https://sites.google.com/view/ssredirect/home" class="button pill">Shell Shockers</a>
