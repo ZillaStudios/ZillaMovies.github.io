@@ -10,5 +10,18 @@
   <img src="https://yt3.ggpht.com/ytc/AMLnZu-3HChau_9wCp9PoNQenm_b_mkdEzEluRsjzZrnAw=s900-c-k-c0x00ffffff-no-rj" width="600" height="300"/>
 </div>
     
+<a href="https://sites.google.com/view/baredirect">Black Adam</a>
+
+<img src="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg" width="200" height="200"/>
+
+
 <a href="https://sites.google.com/view/
-baredirect" img src="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg" width="300" height="200">Black Adam</a>
+abffcredirect">A Big Fat Family Christmas</a>
+
+<img src="https://m.media-amazon.com/images/M/MV5BNDkyNzllNjEtMDdiMi00ODA0LTliYmQtMjU0ZTViZDkwZjg0XkEyXkFqcGdeQXVyMTU4MzQzNDkx._V1_FMjpg_UX1000_.jpg" width="200" height="200"/>
+
+
+<a href="https://sites.google.com/view/
+uhredierect">Undercover Holiday</a>
+
+<img src="https://m.media-amazon.com/images/M/MV5BMTM2NWZmMmYtNDZkMS00YzU4LTgzZjgtZWI1ZmE3ZDg2OTAzXkEyXkFqcGdeQXVyMTU4MzQzNDkx._V1_FMjpg_UX1000_.jpg" width="200" height="200"/>
