@@ -7,7 +7,7 @@
   <img src="https://media.tenor.com/oM_Ub8OCuXwAAAAi/godzilla-cyberzillaz.gif" width="50px"/>
 </h1>
 <div align="center">
-  <img src="https://itsfoss.com/wp-content/uploads/2018/07/top-free-games.jpg" width="600" height="300"/>
+  <img src="https://yt3.ggpht.com/ytc/AMLnZu-3HChau_9wCp9PoNQenm_b_mkdEzEluRsjzZrnAw=s900-c-k-c0x00ffffff-no-rj" width="600" height="300"/>
 </div>
     
-<a href="https://sites.google.com/view/ssredirect/home" class="button pill">Shell Shockers</a>
+<input type="image" src="https://static.dc.com/2022-11/Black_Adam_S_DD_KA_TT_3000x3000_300dpi_EN.jpeg?w=1200" name="BlackAdam" width="100" height="48" alt="submit"/>
