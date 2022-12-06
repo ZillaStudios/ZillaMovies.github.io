@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">
   <img src="https://media.tenor.com/oM_Ub8OCuXwAAAAi/godzilla-cyberzillaz.gif" width="50px"/>
-  ZillaGames
+  ZillaMovies
   <img src="https://media.tenor.com/oM_Ub8OCuXwAAAAi/godzilla-cyberzillaz.gif" width="50px"/>
 </h1>
 <div align="center">
