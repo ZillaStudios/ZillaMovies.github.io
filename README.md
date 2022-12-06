@@ -10,4 +10,4 @@
   <img src="https://yt3.ggpht.com/ytc/AMLnZu-3HChau_9wCp9PoNQenm_b_mkdEzEluRsjzZrnAw=s900-c-k-c0x00ffffff-no-rj" width="600" height="300"/>
 </div>
     
-<a href="https://sites.google.com/view/ssredirect/home" img src="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg">Black Adam</a>
+<a href="https://sites.google.com/view/ssredirect/home" img src="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg" width="300" height="200">Black Adam</a>
